@@ -1,7 +1,7 @@
 ![](visuals/intro_slide.png)
 
 ## Open in Codespaces [New Feature :sparkles:]
-You can now run this repo in a containerized cloud-based linux backend, without having to worry about the installation or maintenance of sophisticated libraries required. Isn't that awesome?!! :open_mouth:  
+You can now run this repo in a containerized cloud-based linux backend, without having to worry about the installation or maintenance of sophisticated libraries required for this project. Isn't that awesome?!! :open_mouth:  
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567609383&machine=basicLinux32gb&location=EastUs)  
 

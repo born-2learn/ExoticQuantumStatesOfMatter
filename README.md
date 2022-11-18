@@ -1,8 +1,11 @@
 ![](visuals/intro_slide.png)
 
 ## Open in Codespaces [New Feature :sparkles:]
-You can now run this repo in a containerized cloud-based linux backend, without having to worry about the sophisticated libraries required. Isn't that awesome?!! :open_mouth:
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567609383&machine=basicLinux32gb&location=EastUs)
+You can now run this repo in a containerized cloud-based linux backend, without having to worry about the sophisticated libraries required. Isn't that awesome?!! :open_mouth:  
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=567609383&machine=basicLinux32gb&location=EastUs)  
+
+
 
 ## Project Aim \& Deliverables  
 The project aims to predict ground state properties of exotic quantum states of matter at the phase transition boundaries using machine learning.   
